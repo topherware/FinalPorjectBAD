@@ -219,7 +219,7 @@ public class Main extends Application{
 		arrangeComponentLogin();
 		
 		// Start Scene
-		stage.setTitle("On Boarding Pagesss");
+		stage.setTitle("On Boarding Page");
 		stage.setResizable(false);
 		stage.setScene(sceneOnBoarding);
 		stage.show();
